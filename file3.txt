@@ -1,2 +1,2 @@
 THis is file3.txt
-
+new line added in line file3
